@@ -1,4 +1,6 @@
 <?php
+// Author: Reza Rezaee
+// Simple Film library
 require_once('action/db.php');
 require_once('action/create.php');
 //making a variable to count the tabel rows
